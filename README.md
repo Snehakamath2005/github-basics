@@ -1,1 +1,1 @@
-# github-basics
+# Learning git and git hub
